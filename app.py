@@ -1,4 +1,5 @@
 import streamlit as st
+import pandaas
 
 st.write("""
 # My first app
